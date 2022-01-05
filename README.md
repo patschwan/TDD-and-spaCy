@@ -8,6 +8,5 @@ Rule 1: Write a failing test first
 Rule 2: Write just enough test to fail
 Rule 3: Write just enough code to pass 
 
-# Changelog
-2022-01-03: 14:05 pausiert - nicht wieder angefangen
-2022-01-04: 51:00 pausiert
+# weiterführende Literatur
+Test-Driven Development with Python (Harry Percival, O'Reilly)
